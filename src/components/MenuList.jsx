@@ -14,7 +14,8 @@ const Block = styled.div`
 
 const Text = styled.div`
     font-size: 24px;
-    font-weight: 500;
+    font-weight: 500; 
+    
 `;
 
 function MenuList(props) {
